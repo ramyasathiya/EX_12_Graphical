@@ -86,9 +86,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 ## OUTPUT
 
-![image](https://github.com/user-attachments/assets/2b71c9c8-614e-4550-9ed6-1d9bfac70984)
-
-
+![image](https://github.com/user-attachments/assets/39ebd4ea-e9b5-4df7-8926-a83ffbe32058)
 
 
 
